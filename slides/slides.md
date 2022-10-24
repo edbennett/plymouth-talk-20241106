@@ -107,6 +107,12 @@ Process $\rightarrow$ ⬛ $\rightarrow$ 🪄 $\rightarrow$ 💩
 
 -
 
+[![Graph showing the importance of research software to researchers](./images/hettrick-importance.png) <!-- .element width="600px" --> &nbsp;&nbsp;&nbsp;&nbsp;![Graph showing the estimated expertise of researchers](./images/hettrick-expertise.png) <!-- .element width="600px" -->](https://slides.com/simonhettrick/software-risks-reproducibility-and-sustainability)
+
+
+
+-
+
 # Modest proposals
 
 -

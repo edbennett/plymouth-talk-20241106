@@ -184,7 +184,7 @@ from [doi:10.5281/zenodo.6976215](https://doi.org/10.5281/zenodo.6976215)
 -
 
 <!-- Yeah, I'm using tables for layout. The talk's in less than 90 minutes, I don't have time to recreate figures or work out how to use flex boxes, sorry. -->
-<table width="100%"><tr><td align="center">Data</td><td align="center">Code</td></table>
+<table width="100%" style="margin-bottom: -60px;"><tr><td width="20px"></td><td align="center"><img src="./images/photo_of_data.jpg" width="100px" alt="Data"></td><td align="center"><img src="./images/photo_of_code.jpg" width="100px" alt="Code"></td></table>
 
 ![Graph showing where data were hosted for submissions that did publish data](./plots/used_data_repositories.svg) <!-- .element width="670px" --> ![Graph showing where software was hosted for submissions that did specify software](./plots/all_software_locations.svg) <!-- .element width="670px" -->
 

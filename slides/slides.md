@@ -22,7 +22,9 @@ Process $\rightarrow$ Data $\rightarrow$ Analysis $\rightarrow$ Results
 
 -
 
-Process $\rightarrow$ ⬛ $\rightarrow$ 🪄 $\rightarrow$ ✨Results✨
+<!--Process $\rightarrow$ ⬛ $\rightarrow$ 🪄 $\rightarrow$ ✨Results✨-->
+
+![Process to black box to magic wand to very sparkly results](./images/process-sparkles.png) <!-- .element width="550px" -->
 
 -
 
@@ -105,7 +107,9 @@ Data and software should be:
 
 -
 
-Process $\rightarrow$ ⬛ $\rightarrow$ 🪄 $\rightarrow$ 💩
+<!--Process $\rightarrow$ ⬛ $\rightarrow$ 🪄 $\rightarrow$ 💩-->
+
+![Process to black box to magic wand to pile of poo](./images/process-poo.png) <!-- .element width="500px" -->
 
 -
 

@@ -26,6 +26,12 @@ Process $\rightarrow$ ⬛ $\rightarrow$ 🪄 $\rightarrow$ ✨Results✨
 
 -
 
+_An article about computational science in a scientific publication is **not** the scholarship itself, it is merely **advertising** of the scholarship. The actual scholarship is the complete software development environment and the complete set of instructions which generated the figures._
+
+&mdash;[attributed to Jon Claerbout, around 1995](https://statweb.stanford.edu/~wavelab/Wavelab_850/wavelab.pdf)
+
+-
+
 ![Graph showing the exponential growth in publications from 1650 to 2012](./images/publications.png) <!-- .element: width="800px" -->
 
 [Bornmann and  Mutz, 2015, 10.1002/asi.23329](https://doi.org/10.1002/asi.23329)
@@ -108,6 +114,8 @@ Process $\rightarrow$ ⬛ $\rightarrow$ 🪄 $\rightarrow$ 💩
 -
 
 [![Graph showing the importance of research software to researchers](./images/hettrick-importance.png) <!-- .element width="600px" --> &nbsp;&nbsp;&nbsp;&nbsp;![Graph showing the estimated expertise of researchers](./images/hettrick-expertise.png) <!-- .element width="600px" -->](https://slides.com/simonhettrick/software-risks-reproducibility-and-sustainability)
+
+(from [Software Survey 2020, Simon Hettrick](https://slides.com/simonhettrick/software-risks-reproducibility-and-sustainability))
 
 
 

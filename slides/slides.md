@@ -103,6 +103,10 @@ Process $\rightarrow$ ⬛ $\rightarrow$ 🪄 $\rightarrow$ 💩
 
 -
 
+[![Image of a tweet reading "Another reminder: reviewers and editors need to insist that software be placed in a permanent repository. Not author's web site. Not GitHub.", quoting a second reading "Anyone know where to find the xenograft read detecting software Xenome? Link on the paper is dead."](images/code_archive_tweet.png) <!-- .element:  width="800px" -->](https://twitter.com/michaelhoffman/status/796103749068529667)
+
+-
+
 # Modest proposals
 
 -
@@ -125,9 +129,9 @@ Process $\rightarrow$ ⬛ $\rightarrow$ 🪄 $\rightarrow$ 💩
 
 -
 
-## Croucher's law
+## Croucher’s law
 
-*"I am an idiot and I will make mistakes"*
+*“I am an idiot and I will make mistakes”*
 
 &mdash;[Mike Croucher](https://mikecroucher.github.io/MLPM_talk/)
 
@@ -176,6 +180,13 @@ from [doi:10.5281/zenodo.6976215](https://doi.org/10.5281/zenodo.6976215)
 -
 
 ![Graph showing arXiv submissions that publish any of the data they generate; the vast majority do not](./plots/publish_any_data.svg) <!-- .element width="1000px" -->
+
+-
+
+<!-- Yeah, I'm using tables for layout. The talk's in less than 90 minutes, I don't have time to recreate figures or work out how to use flex boxes, sorry. -->
+<table width="100%"><tr><td align="center">Data</td><td align="center">Code</td></table>
+
+![Graph showing where data were hosted for submissions that did publish data](./plots/used_data_repositories.svg) <!-- .element width="670px" --> ![Graph showing where software was hosted for submissions that did specify software](./plots/all_software_locations.svg) <!-- .element width="670px" -->
 
 -
 

@@ -1,5 +1,5 @@
-## Why would anyone care about reproducibility and open science?
+## Recommendations for open automated reproducibility in computational theoretical physics
 
-A talk given at Maynooth University on 2022-10-24.
+A talk given at the University of Plymouth on 2024-11-06.
 
-[Slides on GitHub pages](https://edbennett.github.io/maynooth-talk-20221024)
+[Slides on GitHub pages](https://edbennett.github.io/plymouth-talk-20241106)

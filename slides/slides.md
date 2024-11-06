@@ -811,6 +811,22 @@ but it's annoying and I've complained at APS repeatedly about this.
 
 ---
 
+# Example
+
+-
+
+## [arXiv:2410.19484](https://arxiv.org/abs/2410.19484)
+
+![Screenshot of the cover of the above linked paper](./images/2410.19484.png) <!-- .element width="500" -->
+
+![Screenshot of a section of the above linked paper reading "Research Data Access Statement The data generated for this manuscript can be downloaded from Ref. [14], and the workflow used to analyse it from Ref. [15]. The analysis workflow used to analyse the open data at Ref. [12] is available from Ref. [16]."](./images/2410.19484_data.png) <!-- .element width="1000" -->
+
+Data: [doi:10.5281/zenodo.13128505](https://doi.org/10.5281/zenodo.13128505)
+
+Workflow: [doi:10.5281/zenodo.13128384](https://doi.org/10.5281/zenodo.13128384)
+
+---
+
 # Summary
 
 -

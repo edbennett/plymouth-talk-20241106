@@ -825,6 +825,18 @@ Data: [doi:10.5281/zenodo.13128505](https://doi.org/10.5281/zenodo.13128505)
 
 Workflow: [doi:10.5281/zenodo.13128384](https://doi.org/10.5281/zenodo.13128384)
 
+-
+
+## Other examples from TELOS
+
+- [Phys.Rev.D 110 (2024) 074504](https://doi.org/10.1103/PhysRevD.110.074504): [Data](https://doi.org/10.5281/zenodo.13349269), [Workflow](https://doi.org/10.5281/zenodo.13349298)
+- [Phys.Rev.D 110 (2024) 074509](https://doi.org/10.1103/PhysRevD.110.074509): [Data](https://doi.org/10.5281/zenodo.11048346), [Workflow](https://doi.org/10.5281/zenodo.11048300)
+- [Phys.Rev.D 109 (2024) 094517](https://doi.org/10.1103/PhysRevD.109.094517): [Data](https://doi.org/10.5281/zenodo.10932404), [Workflow](https://doi.org/10.5281/zenodo.10932408)
+- [Phys.Rev.D 109 (2024) 094512](https://doi.org/10.1103/PhysRevD.109.094512): [Data](https://doi.org/10.5281/zenodo.10819721), [Workflow](https://doi.org/10.5281/zenodo.10929539)
+- [Phys.Rev.D 108 (2023) 094508](https://doi.org/10.1103/PhysRevD.108.094508): [Data](https://doi.org/10.5281/zenodo.8136452), [Workflow](https://doi.org/10.5281/zenodo.8136514)
+- [Phys.Lett.B 835 (2022) 137504](https://doi.org/10.1016/j.physletb.2022.137504) and [Phys.Rev.D 106 (2022) 094503](https://doi.org/10.1103/PhysRevD.106.094503): [Data](https://doi.org/10.5281/zenodo.6678411), [Workflow](https://doi.org/10.5281/zenodo.6685967)
+- [Phys.Rev.D 106 (2022) 014501](https://doi.org/10.1103/PhysRevD.106.014501): [Data](https://doi.org/10.5281/zenodo.6637515), [Workflow](https://doi.org/10.5281/zenodo.6637743)
+
 ---
 
 # Summary

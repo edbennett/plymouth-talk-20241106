@@ -7,7 +7,7 @@
 Notes:
 Two of the finest scientists of the 17th century.
 Both claimed to have invented calculus.
-Likely that they both did, indepedently.
+Likely that they both did, independently.
 But neither claim could be proven
 because the culture was to be secretive about your work
 so you could make money by teaching it to those who wanted to learn.
@@ -142,7 +142,7 @@ The movement to make all research accessible to all levels of society.
 
 Notes:
 In some sense,
-this will always be an unachieveable ideal to be strived towards.
+this will always be an unachievable ideal to be strived towards.
 The more of society we make our data accessible to,
 the more overhead costs pile up.
 Try making a petabyte of data downloadable to anyone on the internet
@@ -276,7 +276,7 @@ If $S[\Phi]$ is complex,
 e.g. has a chemical potential,
 the problem is harder.)
 And we can't put Grassman variables into a computer,
-so we have to integrte out the fermion fields,
+so we have to integrate out the fermion fields,
 so the state of the system is just the gauge field,
 which sits on the links between adjacent sites.
 
